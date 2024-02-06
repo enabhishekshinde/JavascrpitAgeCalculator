@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 'Popins' , sans-serif;  
+}
+.container{
+  width: 100%;
+  min-height: 100vh;
+  background: linear-gradient(135deg,#4023a9,#90bafc);
+
+}
+.AgeCalculetor{
+
+    padding: 30px;
+    padding-left: 50px;
+    padding-top: 100px;
+    font-size: 30px;
+    color: white;
+}
+.AgeCalculetor h1 span{
+
+    
+color: #ffff76;
+}
+.input-box{
+    margin: 40px 0;
+    padding: 35px;
+    width: 500px;
+    background:rgba(255,255,255,0.3) ;
+    border: 0;
+    outline:0;
+    border-radius: 5px;
+}
+.AgeCalculetor p{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #ffff76;
+
+}
+.input-box input{
+    margin: 0;
+    width: 300px;
+    font-size: 25px;
+    border-radius: 5px;
+    padding: 10px;
+    position: relative;
+}
+.input-box button{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+    border-radius: 5px;
+    padding: 5px;
+    margin-left: 20px;
+    background-color: #ffff76;
+}
